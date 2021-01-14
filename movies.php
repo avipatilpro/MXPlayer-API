@@ -1,6 +1,12 @@
 <?php
 error_reporting(0);
 $vid =$_GET['c'];
+
+if (!$vid){
+   exit("<h3>ERROR NOT FOUND<br><br>You Entered Worng MX Player ID or Not Entered ID Here</h3><br><h4> Use Correct Format ➸ <code>https://mx.avipatilpro.repl.co/?c=MXPLAYER_ID_HERE</code><br><br><a href='https://www.mxplayer.in/'>Go To MXPlayer Site</a> <br><br><br> <h4> ➤ Created by <a href='https://github.com/avipatilpro'>Avi Patil</a></h4> ");
+  
+}
+
 $api =file_get_contents("https://api.mxplay.com/v1/web/detail/video?type=movie&id=$vid&platform=com.mxplay.desktop&device-density=2&userid=30bb09af-733a-413b-b8b7-b10348ec2b3d&platform=com.mxplay.mobile&content-languages=hi,en,ta");
 $apis =json_decode($api);
 $title =$apis->title;
