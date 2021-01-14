@@ -17,9 +17,9 @@
 ‣ Go To <a href="https://www.mxplayer.in/">MXPlayer Site</a> <br><br>
 ‣ Open Movie That You Want To watch ! <br><br>
 ‣ Copy The ID at End of URL From URL Box Like below <br><br>
-   <code>https://example.com/</code> <br><br>
-‣ Here From Above Link Copy Video ID  --> <code> 123456abcxyz789pqrs</code> <br><br>
-‣ Paste URL After This --> <code>https://mx.avipatilpro.repl.co/?c=YOUR_ID_HERE</code><br><br>   
+   <code>https://www.mxplayer.in/movie/watch-gi-joe-retaliation-hindi-dubbed-movie-online-5a0013a580ae66319ff779dcb6ccb3bf</code> <br><br>
+‣ Here From Above Link Copy Video ID  --> <code> 5a0013a580ae66319ff779dcb6ccb3bf</code> <br><br>
+‣ Paste URL After This --> <code>https://mx.avipatilpro.repl.co/?c=5a0013a580ae66319ff779dcb6ccb3bf</code><br><br>   
 ‣ Run This URL and You Will Get All Data !!  
 
 </h4><br>
