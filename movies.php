@@ -36,7 +36,7 @@ echo  "Title : ${title}\n\n";
 echo "Description : ${des}\n\n\n\n";
 
 echo "Video_URL_1 : ${burl}${turl}\n\n";
-echo "Video_URL_2 : https://llvod.mxplay.com/${url}\n\n\n\n";
+echo "Video_URL_2 : https://llvod.mxplay.com/" + mediaUrl";
 
 echo "IMG_1 : https://isa-1.mxplay.com/${img1}\n\n";
 echo "IMG_2 : https://isa-1.mxplay.com/${img2}\n\n\n";
