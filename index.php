@@ -1,5 +1,9 @@
 <?php
 
+// © Avishkar Patil
+// Change Output According Your Requirements
+// DO NOT REMOVE Credit
+
 $url =$_GET['c'];
 if($url !=""){
 $uid = str_replace('https://www.mxplayer.in/', '/', $url); 
@@ -51,6 +55,8 @@ echo $api;
 else{
   $ex= array("error" => "Something went wrong, Check URL" );
   $err =json_encode($ex);
+ 
+ // © Avishkar Patil
 
   echo $err;
 }
