@@ -132,7 +132,7 @@ else
 
  $apii = array("id" => $id, "type" => $type, "title" => $mtitle, "description" => $mdes, "releaseDate" => $relese, "images" => $img, "videoHash" => $vhash, "hls" => $hplay, "dash" => $dplay);
 
- $api =json_encode($apii, JSON_UNESCAPED_SLASHES);
+ $api =json_encode($apii, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT);
 
 
 $ex= array("error" => "Something went wrong, Check URL" );
