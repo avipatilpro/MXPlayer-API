@@ -3,6 +3,7 @@
 // © Avishkar Patil
 // Change Output According Your Requirements
 // DO NOT REMOVE Credit
+// DON'T ASK FOR PLAYER CODES HERE ALL THINGS CREATE IT
 
 $url =$_GET['c'];
 if($url !=""){
