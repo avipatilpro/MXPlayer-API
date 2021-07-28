@@ -13,6 +13,11 @@
 
 ```py
    http://localhost/index.php/?c=MX_PLAYER_URL
+
+
+   ☠️ Working Demo 👇🏼👇🏼: 
+
+   https://mx.instream.ml/api.php?c=MX_PLAYER_URL
 ```
 
   <h4>
@@ -23,7 +28,7 @@
 
 <h2>🍁 Where To Host : </h2>
 
-<h5 align="center"> Copy The index.php code and Run on LocalHost , replit.com or heroku as your wish <br> or Your Hosting</h5>
+<h5 align="center"> Copy The index.php code and Run on LocalHost or Your Hosting</h5>
 
 
 ---
