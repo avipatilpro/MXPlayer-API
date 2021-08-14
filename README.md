@@ -13,11 +13,6 @@
 
 ```py
    http://localhost/index.php/?c=MX_PLAYER_URL
-
-
-   ☠️ Working Demo 👇🏼👇🏼: 
-
-   https://mx.instream.ml/api.php?c=MX_PLAYER_URL
 ```
 
   <h4>
