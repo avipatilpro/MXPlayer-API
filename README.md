@@ -1,6 +1,6 @@
 <h1 align="center">✯ MX Player API ✯</h1>
 
-<p align="center">  <b>It is Simple Code To Get All Data and Streamable URLs From MXPlayer</b> <br><br><b> 🌟 Start This Repositry Befor Copying 😎</b></p>
+<p align="center">  <b>It is Simple Code To Get All Data and Streamable URLs From MXPlayer</b> <br><br><b> 🌟 Star This Repository Befor Copying 😎</b></p>
 
 ## How To Use :
 
